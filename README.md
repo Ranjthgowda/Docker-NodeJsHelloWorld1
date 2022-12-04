@@ -7,7 +7,7 @@ docker build -t nodehelloworld .
 docker images
 
 ## To run docker containers
-docker run -d -p 3030:3030 --name nodehelloworld nodehelloworld
+docker run -d -p 8080:8080 --name nodehelloworld nodehelloworld
 
 ## To list docker containers
 docker ps
