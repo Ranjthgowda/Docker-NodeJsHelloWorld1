@@ -1,5 +1,5 @@
 {
-  "name": "docker-hello-world1",
+  "name": "docker-hello-world",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
